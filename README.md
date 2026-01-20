@@ -19,7 +19,6 @@ Rather than focusing on a single gene, this project approaches the data at a bro
 - Transcriptomics (RNA-seq) data from severe malaria patient samples  
 - Data was provided for educational and training purposes through the BDSiC program  
 
-> **Note:** Raw data files are not included in this repository due to size and access restrictions.
 
 ---
 
