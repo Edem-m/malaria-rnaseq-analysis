@@ -45,13 +45,12 @@ This experience sparked my interest in transcriptomics and reinforced my desire 
 ---
 
 ## Project Structure
-
-├── [data/ ](https://doi.org/10.3390/pathogens13100867 )   #  Paper and raw data not included
-├── [scripts/](https://colab.research.google.com/drive/1je6_t9d_UE6HOXlNlNFIXTA8MvB7cwBR?authuser=1#scrollTo=b05c4712)  # Analysis scripts used in this project
-├── figures/           # Plots and visualizations generated from the analysis
-├── results/           # Summary outputs and intermediate results
-├── presentation/      # Project presentation slides (PDF)
-└── README.md          # Project overview and documentation
+- [data/ ]           # Paper and raw data not included
+- [scripts/]         # Analysis scripts used in this project
+- figures/           # Plots and visualizations generated from the analysis
+- results/           # Summary outputs and intermediate results
+- presentation/      # Project presentation slides (PDF)
+- README.md          # Project overview and documentation
 
 
 
